@@ -222,10 +222,15 @@ body {
   padding-right: 35px;
 }
 
+
 .goods-card.lable {
   left: 18px;
   top: 18px;
   position: absolute;
+}
+
+.goods-image {
+  padding-top: 20px;
 }
 
 .goods-title {
